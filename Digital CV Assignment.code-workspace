@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Nav bar.html"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Nav bar.html"
+	}
+}
